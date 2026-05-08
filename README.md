@@ -1,6 +1,8 @@
 # Hack-Remote
 A cool remote that lets you control RF signals with a CC1101 module. 
 It has been specifically designed with customibilty in the code and ease of use in mind.
+<img width="503" height="773" alt="image" src="https://github.com/user-attachments/assets/defdaa70-c80b-4401-92a7-f151211e9ef3" />
+
 
  ---
  How this works is when you plug it into a power source to turn it on, you open up to a menu of different Mhz frequencies. At this menu you can scroll through different Mhz frequencies and click the rotary encoder switch to send out you're desired signal. I also added a signal called 676767 (Really funny I know). When you choose this signal it sends out the same message on 50 randomly chosen Mhz frequencies on at a time in quick succession to "test" RF signal receivers. I have made the code simple and easy to understand so that someone can go in and add there own desired Mhz frequencies and messages.
