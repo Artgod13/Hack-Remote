@@ -19,6 +19,7 @@ Assembling the Hack Remote is very simple, all you need is a soldering iron, sol
  <img width="1920" height="958" alt="image" src="https://github.com/user-attachments/assets/c2b629c9-ceea-41a5-b80b-16754942d8d3" />
 <img width="1920" height="959" alt="image" src="https://github.com/user-attachments/assets/50d776ad-ff83-4233-83b4-31bdf4035849" />
 These models were fully designed, and assembled in onshape.
+https://cad.onshape.com/documents/6f64acb43278fcf02d95f203/w/43ea7b20cd107b410569e89b/e/a30772a52d9b3aa84b86adaa?renderMode=0&uiState=69fd384367af19aa08245193
 
 ---
 # PCB:
