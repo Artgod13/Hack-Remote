@@ -11,6 +11,7 @@ It has been specifically designed with customibilty in the code and ease of use 
  I decided to make this, as I am constantly surrounded by RF receivers and transmitors. So why not build a simple device that is kinda like a flipper zero, and can manipulate/work with these RF signals. (Also flipper zeros are super expensive so if you want to make one but for like only RF here you go!)
  
  ---
+ #Build Instructions:
 Assembling the Hack Remote is very simple, all you need is a soldering iron, solder, 3d printed parts, PCB boardm, and all the parts in the BOM. First get the PCB board and place the compoments all facing up, and solder them onto their designated spots one by one. Next you want to flash the code onto the board, you do this by opening arduino IDE opening the code selecting the Xiao MG24, and installing the Adafruit BusIO, AdafruitGFX Library, AdafruitSSD1306, RotaryEncoder, and SmartRC-CC1101-Driver-Lib Libraries. Then connnect you're board to the computer, and click upload on ArduinoIDE. After this get the Hack Remote bottom 3d printed part and put the assembled board onto it so that the Xiao usb-c end can be seen sticking out the power hole. Then screw the board on using 2 screws to make sure it stays in place. Finally put the Hack Remote Top on top of the bottom piece and use the rest of the screws to screw it in place. After all this work you should finally have a assembled Hack Remote ready to be used.
 
  ---
