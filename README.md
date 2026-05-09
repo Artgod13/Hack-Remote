@@ -1,5 +1,5 @@
 # Hack-Remote
-A cool remote that lets you control RF signals with a CC1101 module. 
+A cool remote that lets you control RF signals with a CC1101 module. (Be careful to follow all radio laws in your area of jurisdiction)
 It has been specifically designed with customibilty in the code and ease of use in mind.
 <img width="503" height="773" alt="image" src="https://github.com/user-attachments/assets/defdaa70-c80b-4401-92a7-f151211e9ef3" />
 
