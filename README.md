@@ -2,9 +2,7 @@
 A cool remote that lets you control RF signals with a CC1101 module.
 It has been specifically designed with customibilty in the code and ease of use in mind.
 (Be careful to follow all radio laws in your area of jurisdiction)
-<img width="504" height="773" alt="image" src="https://github.com/user-attachments/assets/5e327a7e-4e97-47db-a347-5336456205b4" />
-
-
+<img width="627" height="961" alt="image" src="https://github.com/user-attachments/assets/2a5ccb24-4434-492b-ae22-a74ad5061db1" />
 
  ---
  How this works is when you plug it into a power source to turn it on, you open up to a menu of different Mhz frequencies. At this menu you can scroll through different Mhz frequencies and click the rotary encoder switch to send out you're desired signal. I also added a signal called 676767 (Really funny I know). When you choose this signal it sends out the same message on 50 randomly chosen Mhz frequencies on at a time in quick succession to "test" RF signal receivers. I have made the code simple and easy to understand so that someone can go in and add there own desired Mhz frequencies and messages.
