@@ -5,7 +5,7 @@ It has been specifically designed with customibilty in the code and ease of use 
 <img width="627" height="961" alt="image" src="https://github.com/user-attachments/assets/2a5ccb24-4434-492b-ae22-a74ad5061db1" />
 
  ---
- How this works is when you plug it into a power source to turn it on, you open up to a menu of different Mhz frequencies. At this menu you can scroll through different Mhz frequencies and click the rotary encoder switch to send out you're desired signal. I also added a signal called 676767 (Really funny I know). When you choose this signal it sends out the same message on 50 randomly chosen Mhz frequencies on at a time in quick succession to "test" RF signal receivers. I have made the code simple and easy to understand so that someone can go in and add there own desired Mhz frequencies and messages.
+ How this works is when you plug it into a power source to turn it on, you open up to a menu of different Mhz frequencies. At this menu you can scroll through different Mhz frequencies and click the rotary encoder switch to send out you're desired signal. I also added a signal called 676767 (Really funny I know). When you choose this signal it sends out the same message on 50 randomly chosen Mhz frequencies on at a time in quick succession to "test" RF signal receivers. I have made the code simple and easy to understand so that someone can go in and add their own desired Mhz frequencies and messages.
  
  ---
  I decided to make this, as I am constantly surrounded by RF receivers and transmitors. So why not build a simple device that is kinda like a flipper zero, and can manipulate/work with these RF signals. (Also flipper zeros are super expensive so if you want to make one but for like only RF here you go!)
